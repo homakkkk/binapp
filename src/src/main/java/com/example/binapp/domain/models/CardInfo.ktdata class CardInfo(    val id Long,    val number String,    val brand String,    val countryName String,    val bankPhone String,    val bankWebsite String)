@@ -1,0 +1,10 @@
+package com.example.binapp.domain.models
+
+data class CardInfo(
+    val id: Long?,
+    val number: String,
+    val brand: String,
+    val countryName: String,
+    val bankPhone: String?,
+    val bankWebsite: String?
+)

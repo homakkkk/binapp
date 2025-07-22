@@ -1,0 +1,28 @@
+<resources>
+    <!-- Акцентные цвета -->
+    <color name="primary_color">#3F51B5</color>  <!-- Blue 600 -->
+    <color name="secondary_color">#FFEB3B</color> <!-- Yellow 600 -->
+    <color name="accent_color">#E91E63</color>   <!-- Pink 600 -->
+
+    <!-- Фоновые цвета -->
+    <color name="background_light">#FAFAFA</color> <!-- Light grey background -->
+    <color name="background_dark">#212121</color> <!-- Dark grey background -->
+
+    <!-- Цвета текста -->
+    <color name="text_primary">#212121</color> <!-- Black text -->
+    <color name="text_secondary">#757575</color> <!-- Grey secondary text -->
+    <color name="text_white">#FFFFFF</color>    <!-- White text -->
+
+    <!-- Цвета статуса -->
+    <color name="color_success">#4CAF50</color> <!-- Green success -->
+    <color name="color_warning">#FF9800</color> <!-- Orange warning -->
+    <color name="color_error">#F44336</color>   <!-- Red error -->
+
+    <!-- Специальные цвета для акцентов -->
+    <color name="color_accent_blue">#2196F3</color> <!-- Bright blue accent -->
+    <color name="color_accent_green">#8BC34A</color> <!-- Bright green accent -->
+
+    <!-- Прозрачность -->
+    <color name="transparent_black_50">#80000000</color> <!-- Semi-transparent black -->
+    <color name="transparent_white_50">#80FFFFFF</color> <!-- Semi-transparent white -->
+</resources>

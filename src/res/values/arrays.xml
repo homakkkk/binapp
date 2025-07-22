@@ -1,0 +1,41 @@
+<resources>
+    <!-- Список типов карт -->
+    <string-array name="card_types">
+        <item>Visa</item>
+        <item>MasterCard</item>
+        <item>Maestro</item>
+        <item>American Express</item>
+        <item>UnionPay</item>
+        <item>JCB</item>
+    </string-array>
+
+    <!-- Массив популярных стран -->
+    <string-array name="popular_countries">
+        <item>Россия</item>
+        <item>США</item>
+        <item>Германия</item>
+        <item>Франция</item>
+        <item>Китай</item>
+        <item>Великобритания</item>
+    </string-array>
+
+    <!-- Списки для контроля ввода -->
+    <integer-array name="visa_bins">
+        <item>4</item>
+    </integer-array>
+
+    <integer-array name="mastercard_bins">
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+    </integer-array>
+
+    <!-- Возможные шаблоны телефонов банков -->
+    <string-array name="phone_formats">
+        <item>+7 ### #### ####</item>
+        <item>+1 (###) ###-####</item>
+        <item>+49 ### #### ####</item>
+    </string-array>
+</resources>

@@ -1,0 +1,36 @@
+<resources>
+    <!-- Название приложения -->
+    <string name="app_name">Проверка BIN</string>
+
+    <!-- Метки полей ввода -->
+    <string name="input_hint_bin">Введите первые шесть цифр номера карты</string>
+
+    <!-- Надписи на кнопках -->
+    <string name="button_check_bin">Проверить</string>
+    <string name="button_show_history">Показать историю</string>
+
+    <!-- Сообщения о результатах -->
+    <string name="label_card_type">Тип карты:</string>
+    <string name="label_bank_name">Банк:</string>
+    <string name="label_country">Страна:</string>
+    <string name="label_phone">Телефон банка:</string>
+    <string name="label_website">Сайт банка:</string>
+
+    <!-- Информационные сообщения -->
+    <string name="loading_message">Загрузка...</string>
+    <string name="error_no_internet">Нет соединения с интернетом.</string>
+    <string name="error_invalid_bin">Введён некорректный BIN.</string>
+    <string name="error_unknown">Произошла неизвестная ошибка.</string>
+
+    <!-- Заголовки экранов -->
+    <string name="title_first_screen">Проверка BIN</string>
+    <string name="title_second_screen">История проверок</string>
+
+    <!-- Сообщения при очистке истории -->
+    <string name="confirmation_clear_history">Вы уверены, что хотите очистить историю?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+
+    <!-- Сообщения при отсутствии данных -->
+    <string name="empty_history">История пуста</string>
+</resources>

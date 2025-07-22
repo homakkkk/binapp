@@ -1,0 +1,17 @@
+/data/data/be.xbd.kotlin/files/home/projects/binapp/src/main/java/com/example/binapp/di/DataModule.kt
+/data/data/be.xbd.kotlin/files/home/projects/binapp/src/main/java/com/example/binapp/domain/usecases/GetCardInfoUseCase.kt
+/data/data/be.xbd.kotlin/files/home/projects/binapp/src/main/java/com/example/binapp/data/repository/DefaultCardRepository.kt
+/data/data/be.xbd.kotlin/files/home/projects/binapp/src/main/java/com/example/binapp/presentation/viewmodels/MainViewModel.kt
+/data/data/be.xbd.kotlin/files/home/projects/binapp/src/main/java/com/example/binapp/presentation/viewmodels/HistoryViewModel.kt
+/data/data/be.xbd.kotlin/files/home/projects/binapp/src/main/java/com/example/binapp/di/ViewModelModule.kt
+/data/data/be.xbd.kotlin/files/home/projects/binapp/src/main/java/com/example/binapp/di/NetworkModule.kt
+/data/data/be.xbd.kotlin/files/home/projects/binapp/src/main/java/com/example/binapp/domain/usecases/LoadHistoryUseCase.kt
+/data/data/be.xbd.kotlin/files/home/projects/binapp/src/main/java/com/example/binapp/domain/usecases/SaveCardToHistoryUseCase.kt
+/data/data/be.xbd.kotlin/files/home/projects/binapp/src/main/java/com/example/binapp/data/repository/ICardRepository.kt
+/data/data/be.xbd.kotlin/files/home/projects/binapp/src/main/java/com/example/binapp/domain/mappers/CardMapper.kt
+/data/data/be.xbd.kotlin/files/home/projects/binapp/src/main/java/com/example/binapp/mainActivity.kt
+/data/data/be.xbd.kotlin/files/home/projects/binapp/src/main/java/com/example/binapp/presentation/navigation/SetupNavigation.kt
+/data/data/be.xbd.kotlin/files/home/projects/binapp/src/main/java/Main.kt
+/data/data/be.xbd.kotlin/files/home/projects/binapp/src/main/java/com/example/binapp/presentation/ui/FirstScreen.kt
+/data/data/be.xbd.kotlin/files/home/projects/binapp/src/main/java/com/example/binapp/presentation/ui/SecondScreen.kt
+/data/data/be.xbd.kotlin/files/home/projects/binapp/src/main/java/com/example/binapp/di/AppModule.kt

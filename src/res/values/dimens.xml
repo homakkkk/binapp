@@ -1,0 +1,38 @@
+<resources>
+    <!-- Размеры шрифтов -->
+    <dimen name="font_size_huge">32sp</dimen>
+    <dimen name="font_size_large">24sp</dimen>
+    <dimen name="font_size_normal">16sp</dimen>
+    <dimen name="font_size_small">12sp</dimen>
+
+    <!-- Размеры кнопок -->
+    <dimen name="button_corner_radius">8dp</dimen>
+    <dimen name="button_padding_horizontal">16dp</dimen>
+    <dimen name="button_padding_vertical">8dp</dimen>
+
+    <!-- Отступы и промежутки -->
+    <dimen name="small_margin">4dp</dimen>
+    <dimen name="medium_margin">8dp</dimen>
+    <dimen name="large_margin">16dp</dimen>
+    <dimen name="extra_large_margin">32dp</dimen>
+
+    <!-- Минимальные высоты элементов -->
+    <dimen name="min_input_field_height">48dp</dimen>
+    <dimen name="min_button_height">48dp</dimen>
+
+    <!-- Размеры экранов и окон -->
+    <dimen name="full_screen_width">@android:dimen/match_parent</dimen>
+    <dimen name="full_screen_height">@android:dimen/match_parent</dimen>
+
+    <!-- Ширина и высота изображений -->
+    <dimen name="image_icon_size">24dp</dimen>
+    <dimen name="image_thumbnail_size">64dp</dimen>
+
+    <!-- Радиусы скругления углов -->
+    <dimen name="corner_radius_default">4dp</dimen>
+    <dimen name="corner_radius_large">16dp</dimen>
+
+    <!-- Толщина линий -->
+    <dimen name="line_thickness_default">1dp</dimen>
+    <dimen name="line_thickness_medium">2dp</dimen>
+</resources>

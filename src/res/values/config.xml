@@ -1,0 +1,29 @@
+<resources>
+    <!-- Режим отладки (True/False) -->
+    <bool name="debug_mode">false</bool>
+
+    <!-- Адрес API для проверки BIN -->
+    <string name="bin_api_endpoint">https://lookup.binlist.net/</string>
+
+    <!-- Таймауты запросов -->
+    <integer name="request_timeout_seconds">15</integer>
+
+    <!-- Максимальное число записей в истории -->
+    <integer name="max_history_entries">50</integer>
+
+    <!-- Версия API (если планируется поддержка версий) -->
+    <string name="api_version">v1</string>
+
+    <!-- Максимальное количество одновременно выполняемых запросов -->
+    <integer name="concurrent_requests_limit">3</integer>
+
+    <!-- Значения интервалов таймеров -->
+    <integer name="retry_interval_milliseconds">3000</integer>
+
+    <!-- Включить ли логирование запросов -->
+    <bool name="enable_logging">false</bool>
+
+    <!-- Информация о приложении -->
+    <string name="app_build_number">1.0.0</string>
+    <string name="app_copyright">© MyCompany Inc. All rights reserved.</string>
+</resources>

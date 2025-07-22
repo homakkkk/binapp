@@ -1,0 +1,56 @@
+<resources>
+
+    <!-- Основная тема приложения -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Цвета темы -->
+        <item name="colorPrimary">@color/primary_color</item>
+        <item name="colorPrimaryVariant">@color/primary_variant_color</item>
+        <item name="colorOnPrimary">@color/text_on_primary</item>
+        <item name="colorSecondary">@color/secondary_color</item>
+        <item name="colorSurface">@color/surface_color</item>
+        <item name="colorOnSurface">@color/text_on_surface</item>
+        <item name="colorError">@color/error_color</item>
+
+        <!-- Скругленные углы по умолчанию -->
+        <item name="shapeAppearanceSmallComponent">@style/Widget.MaterialComponents.Button.UnelevatedButton</item>
+    </style>
+
+    <!-- Стиль для кнопок -->
+    <style name="AppButtonStyle" parent="Widget.MaterialComponents.Button.TextButton">
+        <item name="android:textColor">@color/text_on_primary</item>
+        <item name="android:backgroundTint">@color/primary_color</item>
+        <item name="android:elevation">4dp</item>
+        <item name="android:minHeight">48dp</item>
+        <item name="android:minWidth">120dp</item>
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingRight">16dp</item>
+        <item name="android:letterSpacing">0.05</item>
+    </style>
+
+    <!-- Стиль для заголовков -->
+    <style name="AppHeaderStyle" parent="TextAppearance.MaterialComponents.Headline6">
+        <item name="android:textSize">@dimen/font_size_large</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Стиль для текста ввода -->
+    <style name="AppInputStyle" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="android:textSize">@dimen/font_size_normal</item>
+        <item name="android:textColorHint">@color/text_secondary</item>
+        <item name="android:textColor">@color/text_primary</item>
+    </style>
+
+    <!-- Стиль для предупреждений и ошибок -->
+    <style name="AppWarningStyle" parent="TextAppearance.MaterialComponents.Caption">
+        <item name="android:textSize">@dimen/font_size_small</item>
+        <item name="android:textColor">@color/warning_color</item>
+    </style>
+
+    <!-- Стиль для Toast-сообщений -->
+    <style name="ToastStyle" parent="Base.Toast">
+        <item name="android:background">@color/toast_background</item>
+        <item name="android:textColor">@color/toast_text_color</item>
+    </style>
+
+</resources>
